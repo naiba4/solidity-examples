@@ -23,7 +23,7 @@
     "dotenv": "^10.0.0",
     "hardhat": "^2.8.0",
     "hardhat-contract-sizer": "^2.1.1",
-    "hardhat-deploy": "^0.10.5",
+    "hardhat-deploy": "^0.11.5",
     "hardhat-deploy-ethers": "^0.3.0-beta.13",
     "hardhat-gas-reporter": "^1.0.6"
   },
@@ -35,10 +35,10 @@
     "chai": "^4.3.4",
     "eslint-config-prettier": "^8.3.0",
     "eslint-plugin-prettier": "^3.4.1",
-    "ethereum-waffle": "^3.4.0",
-    "ethers": "^5.5.2",
+    "ethereum-waffle": "^4.0.8",
+    "ethers": "^6.0.0",
     "prettier": "^2.4.1",
     "solhint": "^3.3.6",
-    "solidity-coverage": "^0.7.17"
+    "solidity-coverage": "^0.8.0"
   }
 }
