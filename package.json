@@ -21,11 +21,11 @@
     "@uniswap/v2-core": "^1.0.1",
     "@uniswap/v2-periphery": "^1.1.0-beta.0",
     "dotenv": "^10.0.0",
-    "hardhat": "^2.8.0",
+    "hardhat": "^2.11.0",
     "hardhat-contract-sizer": "^2.1.1",
-    "hardhat-deploy": "^0.10.5",
+    "hardhat-deploy": "^0.11.5",
     "hardhat-deploy-ethers": "^0.3.0-beta.13",
-    "hardhat-gas-reporter": "^1.0.6"
+    "hardhat-gas-reporter": "^2.0.0"
   },
   "devDependencies": {
     "@layerzerolabs/prettier-plugin-solidity": "^1.0.0-beta.19",
